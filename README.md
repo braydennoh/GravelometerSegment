@@ -23,10 +23,15 @@ SA becomes less accurate with smaller area. This also means that even if the seg
 ### Results
 180 mm gets segmented to 10 m.
 128 mm fails at 9 m.
+
 90 mm fails at 8 m. 
+
 64 mm fails at 8 m.
+
 45 mm fails at 7 m.
+
 32 mm fails at 6 m.
+
 22.6 mm fails at 6 m.
 
 ### Conclusion
