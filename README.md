@@ -7,9 +7,11 @@ Testing how well Segment Anything (SA) detects gravel size ranges (180 mm~22.6 m
 ### masked images
 ![](https://github.com/snohatech/gravelometersegment/blob/main/masked/mask.gif)
 
-### 5 meters
+### 5 meters, 6 meters, 7 meters
 ![](https://github.com/snohatech/gravelometersegment/blob/main/segment/output1.gif)
 
+### 8 meters, 9 meters, 10 meters
+![](https://github.com/snohatech/gravelometersegment/blob/main/segment/output2.gif)
 
 ### Segment Anything accuracy plot
 SA becomes less accurate with smaller area. This also means that even if the segmentation isn't correct, SA will still provide a number for accuracy. However, based on my eyes, if the segmentation isn't correct, I gave a 0. 
