@@ -1,13 +1,13 @@
 # Gravelometer Segment
 Testing how well Segment Anything (SA) detects gravel size ranges (180 mm~22.6 mm) from 5 m to 10 m distance with a Brinno MAC200 DN (Motion Activated Camera).
 
-### raw images                       masked images
+### raw images | masked images
 ![](https://github.com/snohatech/GravelometerSegment/blob/main/raw/1.gif)
 
-### 5 meters    6 meters    7 meters
+### 5 meters | 6 meters | 7 meters
 ![](https://github.com/snohatech/gravelometersegment/blob/main/segment/output1.gif)
 
-### 8 meters, 9 meters, 10 meters
+### 8 meters | 9 meters | 10 meters
 ![](https://github.com/snohatech/gravelometersegment/blob/main/segment/output2.gif)
 
 ### Segment Anything accuracy plot
