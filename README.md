@@ -32,4 +32,4 @@ SA becomes less accurate with smaller area. This also means that even if the seg
 22.6 mm fails at 6 m.
 
 ### Conclusion
-Looking at gravel with Segment Anything and a conventional camera past 10 m is impractical. 
+Looking at gravel (up to 180 mm in diameter) with Segment Anything and a conventional camera past 10 m is impractical. 
